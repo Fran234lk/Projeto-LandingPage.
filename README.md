@@ -1,5 +1,5 @@
 # Projeto-LandingPage.
-Este é o projeto de desenvolvimento do môdulo base da Escola Dnc.
+Projeto de desenvolvimento do môdulo base.
 
 Link disponibilizado do site: 
 (https://escoladnc-projeto-landingpage.netlify.app)
